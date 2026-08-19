@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Open Source Handbook is a resource for people of all skill and experience levels who want to learn about open source and save time finding projects!",
-      "items": [],
-      "title": "Who this is for"
-    },
-    {
-      "description": "",
+      "description": "return to top",
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46958040,
             "language": "JavaScript",
             "last_commit": "2024-08-04T19:23:54Z",
             "owner": "tapaswenipathak",
@@ -29,29 +25,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176945061,
             "language": "TypeScript",
             "last_commit": "2026-08-03T03:46:59Z",
             "owner": "timqian",
             "repo": "open-source-jobs",
-            "stars": 3026
+            "stars": 3027
           }
         }
       ],
       "title": "Open Source Internships, Competitions, and Careers"
-    },
-    {
-      "description": "Sign up for Hacktoberfest 🎃 in the month of October and earn a t-shirt by making four pull requests!",
-      "items": [],
-      "title": "Want a free t-shirt?"
-    },
-    {
-      "description": "We would love for you to contribute! Please fork and make a pull request to the branch. Learn about the Markdown syntax used in the .md files from GitHub Markdown or the Markdown Cheatsheet.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:02:58.307Z",
+    "last_updated": "2026-08-19T10:03:03.500Z",
     "original_repository": "shainakrumme/open-source-handbook",
     "original_repository_sha": "aa89bb73c750a74456a8e629c64f46f4fa9a9767",
     "enhanced_repository": "enhansome/enhansome-open-source-handbook",
