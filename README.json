@@ -4,6 +4,206 @@
       "description": "return to top",
       "items": [
         {
+          "node_type": "group",
+          "title": "Collections by Category",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "iOS development",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ARKit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 95652496,
+                    "language": "Swift",
+                    "last_commit": "2024-05-09T12:55:22Z",
+                    "owner": "olucurious",
+                    "repo": "Awesome-ARKit",
+                    "stars": 7988
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Swift Playgrounds",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 50719620,
+                    "language": "Swift",
+                    "last_commit": "2026-04-02T08:35:32Z",
+                    "owner": "uraimo",
+                    "repo": "Awesome-Swift-Playgrounds",
+                    "stars": 4386
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Core ML models",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 93711179,
+                    "language": null,
+                    "last_commit": "2019-12-07T02:09:02Z",
+                    "owner": "SwiftBrain",
+                    "repo": "awesome-CoreML-models",
+                    "stars": 588
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 29887499,
+                "language": null,
+                "last_commit": "2026-08-24T14:08:43Z",
+                "owner": "dkhamsing",
+                "repo": "open-source-ios-apps",
+                "stars": 51827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Audio visualization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54681855,
+                "language": "Shell",
+                "last_commit": "2026-08-13T14:34:10Z",
+                "owner": "willianjusten",
+                "repo": "awesome-audio-visualization",
+                "stars": 5062
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Artificial Intelligence (AI)",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Datasets",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26898879,
+                    "language": null,
+                    "last_commit": "2026-08-23T23:52:17Z",
+                    "owner": "awesomedata",
+                    "repo": "awesome-public-datasets",
+                    "stars": 78583
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Machine Learning",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21872392,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T10:11:51Z",
+                    "owner": "josephmisiti",
+                    "repo": "awesome-machine-learning",
+                    "stars": 74142
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Computer Vision",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29357796,
+                    "language": null,
+                    "last_commit": "2024-05-17T14:24:27Z",
+                    "owner": "jbhuang0604",
+                    "repo": "awesome-computer-vision",
+                    "stars": 23517
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Natural Language Processing (NLP)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47184304,
+                    "language": null,
+                    "last_commit": "2026-08-18T21:35:47Z",
+                    "owner": "keon",
+                    "repo": "awesome-nlp",
+                    "stars": 18926
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Big data",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Datasets",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26898879,
+                    "language": null,
+                    "last_commit": "2026-08-23T23:52:17Z",
+                    "owner": "awesomedata",
+                    "repo": "awesome-public-datasets",
+                    "stars": 78583
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Web development",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Front-end tools and resources",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29389853,
+                    "language": null,
+                    "last_commit": "2024-08-10T15:40:25Z",
+                    "owner": "milanaryal",
+                    "repo": "web-development-resources",
+                    "stars": 221
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Collections"
+    },
+    {
+      "description": "return to top",
+      "items": [
+        {
           "node_type": "item",
           "title": "Internships and Competitions",
           "description": null,
@@ -38,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:21:13.625Z",
+    "last_updated": "2026-08-24T14:29:41.912Z",
     "original_repository": "shainakrumme/open-source-handbook",
     "original_repository_id": 112122787,
     "original_repository_sha": "aa89bb73c750a74456a8e629c64f46f4fa9a9767",
