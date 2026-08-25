@@ -40,7 +40,7 @@
                     "last_commit": "2026-04-02T08:35:32Z",
                     "owner": "uraimo",
                     "repo": "Awesome-Swift-Playgrounds",
-                    "stars": 4386
+                    "stars": 4387
                   }
                 },
                 {
@@ -63,10 +63,10 @@
                 "archived": false,
                 "id": 29887499,
                 "language": null,
-                "last_commit": "2026-08-24T14:08:43Z",
+                "last_commit": "2026-08-24T21:05:47Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51827
+                "stars": 51843
               }
             },
             {
@@ -98,10 +98,10 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-23T23:52:17Z",
+                    "last_commit": "2026-08-24T19:56:43Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78583
+                    "stars": 78603
                   }
                 },
                 {
@@ -113,10 +113,10 @@
                     "archived": false,
                     "id": 21872392,
                     "language": "Python",
-                    "last_commit": "2026-08-21T10:11:51Z",
+                    "last_commit": "2026-08-24T19:57:48Z",
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74142
+                    "stars": 74148
                   }
                 },
                 {
@@ -146,7 +146,7 @@
                     "last_commit": "2026-08-18T21:35:47Z",
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 18926
+                    "stars": 18930
                   }
                 }
               ]
@@ -165,10 +165,10 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-23T23:52:17Z",
+                    "last_commit": "2026-08-24T19:56:43Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78583
+                    "stars": 78603
                   }
                 }
               ]
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:41.912Z",
+    "last_updated": "2026-08-25T06:17:09.894Z",
     "original_repository": "shainakrumme/open-source-handbook",
     "original_repository_id": 112122787,
     "original_repository_sha": "aa89bb73c750a74456a8e629c64f46f4fa9a9767",
