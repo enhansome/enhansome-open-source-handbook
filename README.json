@@ -40,7 +40,7 @@
                     "last_commit": "2026-04-02T08:35:32Z",
                     "owner": "uraimo",
                     "repo": "Awesome-Swift-Playgrounds",
-                    "stars": 4387
+                    "stars": 4385
                   }
                 },
                 {
@@ -63,10 +63,10 @@
                 "archived": false,
                 "id": 29887499,
                 "language": null,
-                "last_commit": "2026-08-24T21:05:47Z",
+                "last_commit": "2026-08-25T14:45:53Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51842
+                "stars": 51849
               }
             },
             {
@@ -81,7 +81,7 @@
                 "last_commit": "2026-08-13T14:34:10Z",
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5062
+                "stars": 5063
               }
             },
             {
@@ -98,10 +98,10 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-24T19:56:43Z",
+                    "last_commit": "2026-08-25T16:12:04Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78611
+                    "stars": 78642
                   }
                 },
                 {
@@ -116,7 +116,7 @@
                     "last_commit": "2026-08-24T19:57:48Z",
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74149
+                    "stars": 74162
                   }
                 },
                 {
@@ -131,7 +131,7 @@
                     "last_commit": "2024-05-17T14:24:27Z",
                     "owner": "jbhuang0604",
                     "repo": "awesome-computer-vision",
-                    "stars": 23516
+                    "stars": 23518
                   }
                 },
                 {
@@ -146,7 +146,7 @@
                     "last_commit": "2026-08-18T21:35:47Z",
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 18931
+                    "stars": 18933
                   }
                 }
               ]
@@ -165,10 +165,10 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-24T19:56:43Z",
+                    "last_commit": "2026-08-25T16:12:04Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78611
+                    "stars": 78642
                   }
                 }
               ]
@@ -215,7 +215,7 @@
             "last_commit": "2024-08-04T19:23:54Z",
             "owner": "tapaswenipathak",
             "repo": "Open-Source-Programs",
-            "stars": 3864
+            "stars": 3863
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-08-03T03:46:59Z",
             "owner": "timqian",
             "repo": "open-source-jobs",
-            "stars": 3033
+            "stars": 3034
           }
         }
       ],
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:04:57.609Z",
+    "last_updated": "2026-08-26T10:17:14.745Z",
     "original_repository": "shainakrumme/open-source-handbook",
     "original_repository_id": 112122787,
     "original_repository_sha": "aa89bb73c750a74456a8e629c64f46f4fa9a9767",
