@@ -63,10 +63,10 @@
                 "archived": false,
                 "id": 29887499,
                 "language": null,
-                "last_commit": "2026-08-26T12:19:19Z",
+                "last_commit": "2026-08-27T14:18:45Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51865
+                "stars": 51867
               }
             },
             {
@@ -81,7 +81,7 @@
                 "last_commit": "2026-08-13T14:34:10Z",
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5064
+                "stars": 5065
               }
             },
             {
@@ -98,10 +98,10 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-26T21:15:40Z",
+                    "last_commit": "2026-08-27T16:53:23Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78670
+                    "stars": 78675
                   }
                 },
                 {
@@ -113,10 +113,10 @@
                     "archived": false,
                     "id": 21872392,
                     "language": "Python",
-                    "last_commit": "2026-08-26T21:09:24Z",
+                    "last_commit": "2026-08-27T15:29:10Z",
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74177
+                    "stars": 74184
                   }
                 },
                 {
@@ -165,10 +165,10 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-26T21:15:40Z",
+                    "last_commit": "2026-08-27T16:53:23Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78670
+                    "stars": 78675
                   }
                 }
               ]
@@ -238,7 +238,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:52.777Z",
+    "last_updated": "2026-08-27T19:59:35.630Z",
     "original_repository_info": {
       "archived": false,
       "id": 112122787,
