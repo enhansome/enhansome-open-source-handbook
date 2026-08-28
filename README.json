@@ -26,7 +26,8 @@
                     "owner": "olucurious",
                     "repo": "Awesome-ARKit",
                     "stars": 7987
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:59:12.505Z"
                 },
                 {
                   "node_type": "item",
@@ -41,7 +42,8 @@
                     "owner": "uraimo",
                     "repo": "Awesome-Swift-Playgrounds",
                     "stars": 4385
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:59:12.505Z"
                 },
                 {
                   "node_type": "item",
@@ -56,18 +58,20 @@
                     "owner": "SwiftBrain",
                     "repo": "awesome-CoreML-models",
                     "stars": 588
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:59:12.505Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "id": 29887499,
                 "language": null,
-                "last_commit": "2026-08-27T14:18:45Z",
+                "last_commit": "2026-08-28T16:31:53Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51867
-              }
+                "stars": 51878
+              },
+              "first_seen": "2026-08-28T20:59:12.505Z"
             },
             {
               "node_type": "item",
@@ -81,8 +85,9 @@
                 "last_commit": "2026-08-13T14:34:10Z",
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5065
-              }
+                "stars": 5066
+              },
+              "first_seen": "2026-08-28T20:59:12.505Z"
             },
             {
               "node_type": "group",
@@ -98,11 +103,12 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-27T16:53:23Z",
+                    "last_commit": "2026-08-28T16:22:22Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78675
-                  }
+                    "stars": 78692
+                  },
+                  "first_seen": "2026-08-28T20:59:12.505Z"
                 },
                 {
                   "node_type": "item",
@@ -116,8 +122,9 @@
                     "last_commit": "2026-08-27T15:29:10Z",
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74184
-                  }
+                    "stars": 74202
+                  },
+                  "first_seen": "2026-08-28T20:59:12.505Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "jbhuang0604",
                     "repo": "awesome-computer-vision",
                     "stars": 23520
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:59:12.505Z"
                 },
                 {
                   "node_type": "item",
@@ -146,8 +154,9 @@
                     "last_commit": "2026-08-18T21:35:47Z",
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 18936
-                  }
+                    "stars": 18940
+                  },
+                  "first_seen": "2026-08-28T20:59:12.505Z"
                 }
               ]
             },
@@ -165,11 +174,12 @@
                     "archived": false,
                     "id": 26898879,
                     "language": null,
-                    "last_commit": "2026-08-27T16:53:23Z",
+                    "last_commit": "2026-08-28T16:22:22Z",
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78675
-                  }
+                    "stars": 78692
+                  },
+                  "first_seen": "2026-08-28T20:59:12.505Z"
                 }
               ]
             },
@@ -191,7 +201,8 @@
                     "owner": "milanaryal",
                     "repo": "web-development-resources",
                     "stars": 221
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:59:12.505Z"
                 }
               ]
             }
@@ -216,7 +227,8 @@
             "owner": "tapaswenipathak",
             "repo": "Open-Source-Programs",
             "stars": 3862
-          }
+          },
+          "first_seen": "2026-08-28T20:59:12.505Z"
         },
         {
           "node_type": "item",
@@ -230,15 +242,16 @@
             "last_commit": "2026-08-03T03:46:59Z",
             "owner": "timqian",
             "repo": "open-source-jobs",
-            "stars": 3034
-          }
+            "stars": 3033
+          },
+          "first_seen": "2026-08-28T20:59:12.505Z"
         }
       ],
       "title": "Open Source Internships, Competitions, and Careers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:59:35.630Z",
+    "last_updated": "2026-08-28T20:59:12.505Z",
     "original_repository_info": {
       "archived": false,
       "id": 112122787,
