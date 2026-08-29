@@ -20,12 +20,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome ARKit projects and resources. Feel free to contribute!",
+                    "homepage": null,
                     "id": 95652496,
                     "language": "Swift",
+                    "license": null,
                     "last_commit": "2024-05-09T12:55:22Z",
+                    "open_issues": 6,
                     "owner": "olucurious",
                     "repo": "Awesome-ARKit",
-                    "stars": 7987
+                    "stars": 7987,
+                    "topics": [
+                      "arkit",
+                      "augmented-reality",
+                      "ios",
+                      "objective-c",
+                      "swift"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
                 },
@@ -36,12 +47,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A List of Awesome Swift Playgrounds",
+                    "homepage": null,
                     "id": 50719620,
                     "language": "Swift",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-02T08:35:32Z",
+                    "open_issues": 1,
                     "owner": "uraimo",
                     "repo": "Awesome-Swift-Playgrounds",
-                    "stars": 4385
+                    "stars": 4385,
+                    "topics": [
+                      "apple",
+                      "apple-playground",
+                      "awesome",
+                      "awesome-list",
+                      "learning-swift",
+                      "playground",
+                      "swift",
+                      "swift-language",
+                      "swift-playgrounds",
+                      "swift3",
+                      "swift4"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
                 },
@@ -52,24 +80,70 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of models for Core ML ",
+                    "homepage": null,
                     "id": 93711179,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2019-12-07T02:09:02Z",
+                    "open_issues": 4,
                     "owner": "SwiftBrain",
                     "repo": "awesome-CoreML-models",
-                    "stars": 588
+                    "stars": 588,
+                    "topics": [
+                      "ai",
+                      "awesome",
+                      "awesome-list",
+                      "coreml",
+                      "coreml-framework",
+                      "coreml-models",
+                      "coremltools",
+                      "deep-learning",
+                      "ios",
+                      "ios11",
+                      "machine-learning",
+                      "machine-learning-models",
+                      "model",
+                      "swift"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": ":iphone: Collaborative List of Open-Source iOS Apps",
+                "homepage": null,
                 "id": 29887499,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-28T16:31:53Z",
+                "open_issues": 4,
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51878
+                "stars": 51884,
+                "topics": [
+                  "app",
+                  "apple",
+                  "apple-tv",
+                  "apple-vision-pro",
+                  "apple-watch",
+                  "awesome",
+                  "cocoapods",
+                  "example",
+                  "flutter",
+                  "game",
+                  "ios",
+                  "ipad",
+                  "iphone",
+                  "list",
+                  "objective-c",
+                  "react-native",
+                  "swift",
+                  "swiftui",
+                  "tvos",
+                  "watchos"
+                ]
               },
               "first_seen": "2026-08-28T20:59:12.505Z"
             },
@@ -80,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list about Audio Visualization.",
+                "homepage": null,
                 "id": 54681855,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2026-08-13T14:34:10Z",
+                "open_issues": 13,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5066
+                "stars": 5066,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:12.505Z"
             },
@@ -101,12 +180,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A topic-centric list of HQ open datasets.",
+                    "homepage": "https://awesomedataworld.slack.com",
                     "id": 26898879,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-08-28T16:22:22Z",
+                    "open_issues": 159,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78692
+                    "stars": 78694,
+                    "topics": [
+                      "aaron-swartz",
+                      "awesome-public-datasets",
+                      "datasets",
+                      "opendata"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
                 },
@@ -117,12 +206,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                    "homepage": null,
                     "id": 21872392,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T15:29:10Z",
+                    "open_issues": 29,
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74202
+                    "stars": 74202,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
                 },
@@ -133,12 +227,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome computer vision resources",
+                    "homepage": null,
                     "id": 29357796,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-05-17T14:24:27Z",
+                    "open_issues": 92,
                     "owner": "jbhuang0604",
                     "repo": "awesome-computer-vision",
-                    "stars": 23520
+                    "stars": 23520,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
                 },
@@ -149,12 +248,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+                    "homepage": null,
                     "id": 47184304,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-18T21:35:47Z",
+                    "open_issues": 15,
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 18940
+                    "stars": 18940,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "deep-learning",
+                      "language",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "nlp",
+                      "text-mining"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
                 }
@@ -172,12 +285,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A topic-centric list of HQ open datasets.",
+                    "homepage": "https://awesomedataworld.slack.com",
                     "id": 26898879,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-08-28T16:22:22Z",
+                    "open_issues": 159,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78692
+                    "stars": 78694,
+                    "topics": [
+                      "aaron-swartz",
+                      "awesome-public-datasets",
+                      "datasets",
+                      "opendata"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
                 }
@@ -195,12 +318,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A list of open source front-end tools and resources for web designers and developers.",
+                    "homepage": null,
                     "id": 29389853,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-08-10T15:40:25Z",
+                    "open_issues": 22,
                     "owner": "milanaryal",
                     "repo": "web-development-resources",
-                    "stars": 221
+                    "stars": 221,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "framework",
+                      "front-end-development",
+                      "resources",
+                      "web-application",
+                      "web-design",
+                      "web-development",
+                      "web-development-tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
                 }
@@ -221,12 +359,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A list of open source programs.",
+            "homepage": "https://opensourceinternships.herokuapp.com/",
             "id": 46958040,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-04T19:23:54Z",
+            "open_issues": 39,
             "owner": "tapaswenipathak",
             "repo": "Open-Source-Programs",
-            "stars": 3862
+            "stars": 3862,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.505Z"
         },
@@ -237,12 +380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Open Source projects offering jobs.",
+            "homepage": "https://open-source-jobs.com",
             "id": 176945061,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-03T03:46:59Z",
+            "open_issues": 10,
             "owner": "timqian",
             "repo": "open-source-jobs",
-            "stars": 3033
+            "stars": 3033,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.505Z"
         }
@@ -251,15 +399,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:12.505Z",
+    "last_updated": "2026-08-29T04:42:43.961Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⭐️ Open source projects for all skill levels",
+      "homepage": null,
       "id": 112122787,
       "language": null,
+      "license": "MIT",
       "last_commit": "2024-04-20T00:11:51Z",
+      "open_issues": 4,
       "owner": "shainakrumme",
       "repo": "open-source-handbook",
-      "stars": 492
+      "stars": 492,
+      "topics": [
+        "advanced-project",
+        "android",
+        "awesome-list",
+        "awesome-lists",
+        "beginner-project",
+        "big-data",
+        "frameworks",
+        "gaming",
+        "intermediate-projects",
+        "ios",
+        "languages",
+        "machine-learning",
+        "open-source",
+        "open-source-community",
+        "open-source-project",
+        "open-source-software",
+        "projects",
+        "security",
+        "trending",
+        "web-development"
+      ]
     },
     "original_repository_sha": "aa89bb73c750a74456a8e629c64f46f4fa9a9767",
     "enhanced_repository": "enhansome/enhansome-open-source-handbook",
