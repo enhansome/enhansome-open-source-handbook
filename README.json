@@ -29,7 +29,7 @@
                     "open_issues": 6,
                     "owner": "olucurious",
                     "repo": "Awesome-ARKit",
-                    "stars": 7988,
+                    "stars": 7987,
                     "topics": [
                       "arkit",
                       "augmented-reality",
@@ -117,11 +117,11 @@
                 "id": 29887499,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-05T12:54:59Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-07T11:46:44Z",
+                "open_issues": 1,
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51996,
+                "stars": 52012,
                 "topics": [
                   "app",
                   "apple",
@@ -189,7 +189,7 @@
                     "open_issues": 158,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78824,
+                    "stars": 78839,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -212,10 +212,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-02T19:29:21Z",
-                    "open_issues": 30,
+                    "open_issues": 32,
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74264,
+                    "stars": 74274,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -236,7 +236,7 @@
                     "open_issues": 92,
                     "owner": "jbhuang0604",
                     "repo": "awesome-computer-vision",
-                    "stars": 23539,
+                    "stars": 23545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -253,11 +253,11 @@
                     "id": 47184304,
                     "language": null,
                     "license": "CC0-1.0",
-                    "last_commit": "2026-08-18T21:35:47Z",
+                    "last_commit": "2026-09-07T10:42:10Z",
                     "open_issues": 17,
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 18966,
+                    "stars": 18970,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -294,7 +294,7 @@
                     "open_issues": 158,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78824,
+                    "stars": 78839,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -389,7 +389,7 @@
             "open_issues": 10,
             "owner": "timqian",
             "repo": "open-source-jobs",
-            "stars": 3039,
+            "stars": 3040,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.505Z"
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:06:57.689Z",
+    "last_updated": "2026-09-07T15:14:15.156Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Open source projects for all skill levels",
