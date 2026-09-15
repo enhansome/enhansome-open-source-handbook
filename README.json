@@ -117,11 +117,11 @@
                 "id": 29887499,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-14T12:44:38Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-15T14:14:32Z",
+                "open_issues": 1,
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 52122,
+                "stars": 52134,
                 "topics": [
                   "app",
                   "apple",
@@ -160,7 +160,7 @@
                 "language": "Shell",
                 "license": null,
                 "last_commit": "2026-08-13T14:34:10Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
                 "stars": 5072,
@@ -185,11 +185,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-09-14T15:35:34Z",
+                    "last_commit": "2026-09-15T14:24:03Z",
                     "open_issues": 158,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78946,
+                    "stars": 78961,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -215,7 +215,7 @@
                     "open_issues": 29,
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74328,
+                    "stars": 74340,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -290,11 +290,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-09-14T15:35:34Z",
+                    "last_commit": "2026-09-15T14:24:03Z",
                     "open_issues": 158,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 78946,
+                    "stars": 78961,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:59:32.567Z",
+    "last_updated": "2026-09-15T14:27:34.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Open source projects for all skill levels",
@@ -411,7 +411,7 @@
       "open_issues": 4,
       "owner": "shainakrumme",
       "repo": "open-source-handbook",
-      "stars": 493,
+      "stars": 494,
       "topics": [
         "advanced-project",
         "android",
