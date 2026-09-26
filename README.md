@@ -35,27 +35,27 @@ Open Source Handbook is a resource for people of **all skill and experience leve
     * [How to fork repos & make pull requests](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
   * Finding Projects
     * [Beginner projects](https://github.com/showcases/great-for-new-contributors)
-    * [Beginner projects (more!)](https://github.com/MunGell/awesome-for-beginners) ⭐ 89,581 | 🐛 157 | 📅 2026-07-25
+    * [Beginner projects (more!)](https://github.com/MunGell/awesome-for-beginners) ⭐ 89,609 | 🐛 158 | 📅 2026-07-25
     * [Searching GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/)
 
 ## Collections
 
 * **Collections by Category**
-  * [iOS development](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md#apple-watch) ⭐ 52,276 | 🐛 7 | 📅 2026-09-25
+  * [iOS development](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md#apple-watch) ⭐ 52,318 | 🐛 4 | 📅 2026-09-25
     * [ARKit](https://github.com/olucurious/Awesome-ARKit) ⭐ 7,986 | 🐛 6 | 🌐 Swift | 📅 2024-05-09
     * [Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) ⭐ 4,388 | 🐛 1 | 🌐 Swift | 📅 2026-04-02
     * [Core ML models](https://github.com/SwiftBrain/awesome-CoreML-models) ⭐ 588 | 🐛 4 | 📅 2019-12-07
     * [Objective-C apps](categories/objective-c.md)
     * [Swift apps](categories/swift.md)
-  * [Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,080 | 🐛 16 | 🌐 Shell | 📅 2026-08-13
+  * [Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,080 | 🐛 17 | 🌐 Shell | 📅 2026-08-13
   * [Android development](https://f-droid.org/)
   * Artificial Intelligence (AI)
-    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,152 | 🐛 161 | 📅 2026-09-23
-    * [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,449 | 🐛 20 | 🌐 Python | 📅 2026-09-22
+    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,164 | 🐛 161 | 📅 2026-09-23
+    * [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,458 | 🐛 20 | 🌐 Python | 📅 2026-09-22
     * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,573 | 🐛 99 | 📅 2024-05-17
-    * [Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,034 | 🐛 22 | 📅 2026-09-07
+    * [Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,033 | 🐛 22 | 📅 2026-09-07
   * [Big data](categories/big-data.md)
-    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,152 | 🐛 161 | 📅 2026-09-23
+    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,164 | 🐛 161 | 📅 2026-09-23
   * [Frameworks](https://github.com/topics/framework)
   * [Gaming](https://gist.github.com/roachhd/d579b58148d7e36a6b72)
   * [Security](https://github.com/topics/security)
@@ -112,7 +112,7 @@ Open Source Handbook is a resource for people of **all skill and experience leve
 ## Open Source Internships, Competitions, and Careers
 
 * [Internships and Competitions](https://github.com/tapaswenipathak/Open-Source-Programs) ⚠️ Archived
-* [Careers](https://github.com/t9tio/open-source-jobs) ⭐ 3,039 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-11
+* [Careers](https://github.com/t9tio/open-source-jobs) ⭐ 3,040 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-11
 
 [return to top](README.md)
 
@@ -122,7 +122,7 @@ Sign up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🎃 in the
 
 ## Contributing
 
-We would love for you to contribute! Please [fork and make a pull request](https://gist.github.com/Chaser324/ce0505fbed06b947d962) to the `source` branch. Learn about the Markdown syntax used in the .md files from [GitHub Markdown](https://help.github.com/categories/writing-on-github/) or the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,258 | 🐛 319 | 🌐 JavaScript | 📅 2025-08-22.
+We would love for you to contribute! Please [fork and make a pull request](https://gist.github.com/Chaser324/ce0505fbed06b947d962) to the `source` branch. Learn about the Markdown syntax used in the .md files from [GitHub Markdown](https://help.github.com/categories/writing-on-github/) or the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,261 | 🐛 319 | 🌐 JavaScript | 📅 2025-08-22.
 
 ## Maintainers
 
@@ -132,4 +132,4 @@ We would love for you to contribute! Please [fork and make a pull request](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
