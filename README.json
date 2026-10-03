@@ -11,12 +11,12 @@
             {
               "node_type": "item",
               "title": "iOS development",
-              "description": null,
+              "description": "dkhamsing/open-source-ios-apps",
               "children": [
                 {
                   "node_type": "item",
                   "title": "ARKit",
-                  "description": null,
+                  "description": "olucurious/Awesome-ARKit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -43,7 +43,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift Playgrounds",
-                  "description": null,
+                  "description": "uraimo/Awesome-Swift-Playgrounds",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -56,7 +56,7 @@
                     "open_issues": 1,
                     "owner": "uraimo",
                     "repo": "Awesome-Swift-Playgrounds",
-                    "stars": 4388,
+                    "stars": 4389,
                     "topics": [
                       "apple",
                       "apple-playground",
@@ -76,7 +76,7 @@
                 {
                   "node_type": "item",
                   "title": "Core ML models",
-                  "description": null,
+                  "description": "SwiftBrain/awesome-CoreML-models",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -117,11 +117,11 @@
                 "id": 29887499,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-02T14:45:17Z",
+                "last_commit": "2026-10-02T17:00:50Z",
                 "open_issues": 4,
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 52380,
+                "stars": 52392,
                 "topics": [
                   "app",
                   "apple",
@@ -150,7 +150,7 @@
             {
               "node_type": "item",
               "title": "Audio visualization",
-              "description": null,
+              "description": "willianjusten/awesome-audio-visualization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -176,7 +176,7 @@
                 {
                   "node_type": "item",
                   "title": "Datasets",
-                  "description": null,
+                  "description": "awesomedata/awesome-public-datasets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -185,11 +185,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-02T15:05:47Z",
+                    "last_commit": "2026-10-02T19:47:28Z",
                     "open_issues": 161,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79272,
+                    "stars": 79277,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -202,7 +202,7 @@
                 {
                   "node_type": "item",
                   "title": "Machine Learning",
-                  "description": null,
+                  "description": "josephmisiti/awesome-machine-learning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -215,7 +215,7 @@
                     "open_issues": 22,
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74510,
+                    "stars": 74511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -223,7 +223,7 @@
                 {
                   "node_type": "item",
                   "title": "Computer Vision",
-                  "description": null,
+                  "description": "jbhuang0604/awesome-computer-vision",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -244,7 +244,7 @@
                 {
                   "node_type": "item",
                   "title": "Natural Language Processing (NLP)",
-                  "description": null,
+                  "description": "keon/awesome-nlp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -254,10 +254,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-09-07T10:42:10Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 19048,
+                    "stars": 19049,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -281,7 +281,7 @@
                 {
                   "node_type": "item",
                   "title": "Datasets",
-                  "description": null,
+                  "description": "awesomedata/awesome-public-datasets",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -290,11 +290,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-02T15:05:47Z",
+                    "last_commit": "2026-10-02T19:47:28Z",
                     "open_issues": 161,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79272,
+                    "stars": 79277,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -314,7 +314,7 @@
                 {
                   "node_type": "item",
                   "title": "Front-end tools and resources",
-                  "description": null,
+                  "description": "milanaryal/web-development-resources",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -355,7 +355,7 @@
         {
           "node_type": "item",
           "title": "Internships and Competitions",
-          "description": null,
+          "description": "tapaswenipathak/Open-Source-Programs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -368,7 +368,7 @@
             "open_issues": 39,
             "owner": "tapaswenipathak",
             "repo": "Open-Source-Programs",
-            "stars": 3864,
+            "stars": 3863,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.505Z"
@@ -376,7 +376,7 @@
         {
           "node_type": "item",
           "title": "Careers",
-          "description": null,
+          "description": "timqian/open-source-jobs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:57:52.450Z",
+    "last_updated": "2026-10-03T05:02:19.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Open source projects for all skill levels",
