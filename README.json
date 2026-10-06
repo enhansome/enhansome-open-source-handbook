@@ -117,11 +117,11 @@
                 "id": 29887499,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-05T12:14:52Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-06T05:02:09Z",
+                "open_issues": 3,
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 52418,
+                "stars": 52430,
                 "topics": [
                   "app",
                   "apple",
@@ -185,11 +185,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-05T15:19:35Z",
+                    "last_commit": "2026-10-05T20:37:13Z",
                     "open_issues": 161,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79316,
+                    "stars": 79328,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -215,7 +215,7 @@
                     "open_issues": 20,
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74521,
+                    "stars": 74530,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -236,7 +236,7 @@
                     "open_issues": 99,
                     "owner": "jbhuang0604",
                     "repo": "awesome-computer-vision",
-                    "stars": 23587,
+                    "stars": 23589,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -257,7 +257,7 @@
                     "open_issues": 28,
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 19056,
+                    "stars": 19059,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -290,11 +290,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-05T15:19:35Z",
+                    "last_commit": "2026-10-05T20:37:13Z",
                     "open_issues": 161,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79316,
+                    "stars": 79328,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -368,7 +368,7 @@
             "open_issues": 39,
             "owner": "tapaswenipathak",
             "repo": "Open-Source-Programs",
-            "stars": 3862,
+            "stars": 3861,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.505Z"
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:49:27.514Z",
+    "last_updated": "2026-10-06T10:13:44.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Open source projects for all skill levels",
