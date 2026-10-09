@@ -35,27 +35,27 @@ Open Source Handbook is a resource for people of **all skill and experience leve
     * [How to fork repos & make pull requests](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
   * Finding Projects
     * [Beginner projects](https://github.com/showcases/great-for-new-contributors)
-    * [Beginner projects (more!)](https://github.com/MunGell/awesome-for-beginners) ⭐ 89,995 | 🐛 147 | 📅 2026-10-01
+    * [Beginner projects (more!)](https://github.com/MunGell/awesome-for-beginners) ⭐ 90,040 | 🐛 148 | 📅 2026-10-01
     * [Searching GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/)
 
 ## Collections
 
 * **Collections by Category**
-  * [iOS development](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md#apple-watch) ⭐ 52,456 | 🐛 5 | 📅 2026-10-08
+  * [iOS development](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md#apple-watch) ⭐ 52,477 | 🐛 4 | 📅 2026-10-09
     * [ARKit](https://github.com/olucurious/Awesome-ARKit) ⭐ 7,986 | 🐛 6 | 🌐 Swift | 📅 2024-05-09
     * [Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) ⭐ 4,388 | 🐛 1 | 🌐 Swift | 📅 2026-04-02
     * [Core ML models](https://github.com/SwiftBrain/awesome-CoreML-models) ⭐ 588 | 🐛 4 | 📅 2019-12-07
     * [Objective-C apps](categories/objective-c.md)
     * [Swift apps](categories/swift.md)
-  * [Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,087 | 🐛 19 | 🌐 Shell | 📅 2026-08-13
+  * [Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,084 | 🐛 19 | 🌐 Shell | 📅 2026-08-13
   * [Android development](https://f-droid.org/)
   * Artificial Intelligence (AI)
-    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,382 | 🐛 164 | 📅 2026-10-08
-    * [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,549 | 🐛 22 | 🌐 Python | 📅 2026-10-07
-    * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,589 | 🐛 99 | 📅 2024-05-17
+    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,396 | 🐛 163 | 📅 2026-10-09
+    * [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,555 | 🐛 23 | 🌐 Python | 📅 2026-10-07
+    * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 97 | 📅 2024-05-17
     * [Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,065 | 🐛 30 | 📅 2026-09-07
   * [Big data](categories/big-data.md)
-    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,382 | 🐛 164 | 📅 2026-10-08
+    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,396 | 🐛 163 | 📅 2026-10-09
   * [Frameworks](https://github.com/topics/framework)
   * [Gaming](https://gist.github.com/roachhd/d579b58148d7e36a6b72)
   * [Security](https://github.com/topics/security)
@@ -112,7 +112,7 @@ Open Source Handbook is a resource for people of **all skill and experience leve
 ## Open Source Internships, Competitions, and Careers
 
 * [Internships and Competitions](https://github.com/tapaswenipathak/Open-Source-Programs) ⚠️ Archived
-* [Careers](https://github.com/t9tio/open-source-jobs) ⭐ 3,041 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11
+* [Careers](https://github.com/t9tio/open-source-jobs) ⭐ 3,042 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11
 
 [return to top](README.md)
 
@@ -132,4 +132,4 @@ We would love for you to contribute! Please [fork and make a pull request](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
