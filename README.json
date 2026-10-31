@@ -117,11 +117,11 @@
                 "id": 29887499,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-30T12:24:59Z",
+                "last_commit": "2026-10-31T10:22:46Z",
                 "open_issues": 4,
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 52908,
+                "stars": 52929,
                 "topics": [
                   "app",
                   "apple",
@@ -189,7 +189,7 @@
                     "open_issues": 167,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79856,
+                    "stars": 79873,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -215,7 +215,7 @@
                     "open_issues": 31,
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74691,
+                    "stars": 74697,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -254,10 +254,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-10-12T22:26:23Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 19116,
+                    "stars": 19118,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -294,7 +294,7 @@
                     "open_issues": 167,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79856,
+                    "stars": 79873,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -389,7 +389,7 @@
             "open_issues": 12,
             "owner": "timqian",
             "repo": "open-source-jobs",
-            "stars": 3076,
+            "stars": 3090,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.505Z"
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:13:14.377Z",
+    "last_updated": "2026-10-31T15:29:43.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Open source projects for all skill levels",
