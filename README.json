@@ -56,7 +56,7 @@
                     "open_issues": 1,
                     "owner": "uraimo",
                     "repo": "Awesome-Swift-Playgrounds",
-                    "stars": 4392,
+                    "stars": 4393,
                     "topics": [
                       "apple",
                       "apple-playground",
@@ -117,11 +117,11 @@
                 "id": 29887499,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-31T10:22:46Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-02T13:52:36Z",
+                "open_issues": 2,
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 52946,
+                "stars": 52967,
                 "topics": [
                   "app",
                   "apple",
@@ -163,7 +163,7 @@
                 "open_issues": 24,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5099,
+                "stars": 5100,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:12.505Z"
@@ -185,11 +185,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-28T16:46:19Z",
+                    "last_commit": "2026-11-02T19:34:27Z",
                     "open_issues": 167,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79895,
+                    "stars": 79915,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -211,11 +211,11 @@
                     "id": 21872392,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-27T19:21:38Z",
-                    "open_issues": 32,
+                    "last_commit": "2026-11-01T16:30:10Z",
+                    "open_issues": 31,
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74710,
+                    "stars": 74737,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -257,7 +257,7 @@
                     "open_issues": 8,
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 19119,
+                    "stars": 19122,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -290,11 +290,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-28T16:46:19Z",
+                    "last_commit": "2026-11-02T19:34:27Z",
                     "open_issues": 167,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 79895,
+                    "stars": 79915,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -385,11 +385,11 @@
             "id": 176945061,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-11T06:09:37Z",
+            "last_commit": "2026-11-01T16:30:51Z",
             "open_issues": 12,
             "owner": "timqian",
             "repo": "open-source-jobs",
-            "stars": 3092,
+            "stars": 3099,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.505Z"
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:22:04.787Z",
+    "last_updated": "2026-11-02T19:46:02.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Open source projects for all skill levels",
