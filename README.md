@@ -35,27 +35,27 @@ Open Source Handbook is a resource for people of **all skill and experience leve
     * [How to fork repos & make pull requests](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
   * Finding Projects
     * [Beginner projects](https://github.com/showcases/great-for-new-contributors)
-    * [Beginner projects (more!)](https://github.com/MunGell/awesome-for-beginners) ⭐ 91,123 | 🐛 167 | 📅 2026-10-01
+    * [Beginner projects (more!)](https://github.com/MunGell/awesome-for-beginners) ⭐ 91,155 | 🐛 168 | 📅 2026-10-01
     * [Searching GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/)
 
 ## Collections
 
 * **Collections by Category**
-  * [iOS development](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md#apple-watch) ⭐ 53,074 | 🐛 7 | 📅 2026-11-06
-    * [ARKit](https://github.com/olucurious/Awesome-ARKit) ⭐ 7,992 | 🐛 7 | 🌐 Swift | 📅 2024-05-09
+  * [iOS development](https://github.com/dkhamsing/open-source-ios-apps/blob/master/APPSTORE.md#apple-watch) ⭐ 53,100 | 🐛 6 | 📅 2026-11-07
+    * [ARKit](https://github.com/olucurious/Awesome-ARKit) ⭐ 7,991 | 🐛 7 | 🌐 Swift | 📅 2024-05-09
     * [Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) ⭐ 4,391 | 🐛 1 | 🌐 Swift | 📅 2026-04-02
-    * [Core ML models](https://github.com/SwiftBrain/awesome-CoreML-models) ⭐ 589 | 🐛 4 | 📅 2019-12-07
+    * [Core ML models](https://github.com/SwiftBrain/awesome-CoreML-models) ⭐ 588 | 🐛 4 | 📅 2019-12-07
     * [Objective-C apps](categories/objective-c.md)
     * [Swift apps](categories/swift.md)
   * [Audio visualization](https://github.com/willianjusten/awesome-audio-visualization) ⭐ 5,103 | 🐛 24 | 🌐 Shell | 📅 2026-08-13
   * [Android development](https://f-droid.org/)
   * Artificial Intelligence (AI)
-    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,965 | 🐛 167 | 📅 2026-11-06
-    * [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,769 | 🐛 34 | 🌐 Python | 📅 2026-11-01
-    * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,630 | 🐛 100 | 📅 2024-05-17
-    * [Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,135 | 🐛 9 | 📅 2026-10-12
+    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,975 | 🐛 167 | 📅 2026-11-07
+    * [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,779 | 🐛 35 | 🌐 Python | 📅 2026-11-01
+    * [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,631 | 🐛 101 | 📅 2024-05-17
+    * [Natural Language Processing (NLP)](https://github.com/keon/awesome-nlp) ⭐ 19,136 | 🐛 11 | 📅 2026-10-12
   * [Big data](categories/big-data.md)
-    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,965 | 🐛 167 | 📅 2026-11-06
+    * [Datasets](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst) ⭐ 79,975 | 🐛 167 | 📅 2026-11-07
   * [Frameworks](https://github.com/topics/framework)
   * [Gaming](https://gist.github.com/roachhd/d579b58148d7e36a6b72)
   * [Security](https://github.com/topics/security)
@@ -132,4 +132,4 @@ We would love for you to contribute! Please [fork and make a pull request](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
