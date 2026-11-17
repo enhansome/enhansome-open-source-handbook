@@ -56,7 +56,7 @@
                     "open_issues": 1,
                     "owner": "uraimo",
                     "repo": "Awesome-Swift-Playgrounds",
-                    "stars": 4393,
+                    "stars": 4394,
                     "topics": [
                       "apple",
                       "apple-playground",
@@ -117,11 +117,11 @@
                 "id": 29887499,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-16T14:03:31Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-17T13:50:49Z",
+                "open_issues": 4,
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 53298,
+                "stars": 53326,
                 "topics": [
                   "app",
                   "apple",
@@ -163,7 +163,7 @@
                 "open_issues": 30,
                 "owner": "willianjusten",
                 "repo": "awesome-audio-visualization",
-                "stars": 5114,
+                "stars": 5115,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:12.505Z"
@@ -185,11 +185,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-11-16T19:41:30Z",
+                    "last_commit": "2026-11-17T18:39:23Z",
                     "open_issues": 170,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 80168,
+                    "stars": 80178,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -212,10 +212,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-12T19:27:12Z",
-                    "open_issues": 34,
+                    "open_issues": 35,
                     "owner": "josephmisiti",
                     "repo": "awesome-machine-learning",
-                    "stars": 74840,
+                    "stars": 74845,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -236,7 +236,7 @@
                     "open_issues": 99,
                     "owner": "jbhuang0604",
                     "repo": "awesome-computer-vision",
-                    "stars": 23652,
+                    "stars": 23654,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:59:12.505Z"
@@ -257,7 +257,7 @@
                     "open_issues": 16,
                     "owner": "keon",
                     "repo": "awesome-nlp",
-                    "stars": 19165,
+                    "stars": 19166,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -290,11 +290,11 @@
                     "id": 26898879,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-11-16T19:41:30Z",
+                    "last_commit": "2026-11-17T18:39:23Z",
                     "open_issues": 170,
                     "owner": "awesomedata",
                     "repo": "awesome-public-datasets",
-                    "stars": 80168,
+                    "stars": 80178,
                     "topics": [
                       "aaron-swartz",
                       "awesome-public-datasets",
@@ -368,7 +368,7 @@
             "open_issues": 39,
             "owner": "tapaswenipathak",
             "repo": "Open-Source-Programs",
-            "stars": 3863,
+            "stars": 3862,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:12.505Z"
@@ -399,7 +399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:50:57.169Z",
+    "last_updated": "2026-11-17T18:44:37.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐️ Open source projects for all skill levels",
@@ -411,7 +411,7 @@
       "open_issues": 5,
       "owner": "shainakrumme",
       "repo": "open-source-handbook",
-      "stars": 496,
+      "stars": 497,
       "topics": [
         "advanced-project",
         "android",
